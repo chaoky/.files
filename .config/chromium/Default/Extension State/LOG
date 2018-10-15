@@ -1,3 +1,6 @@
-2018/10/15-11:53:54.716 14593 Reusing MANIFEST /home/lordie/.config/chromium/Default/Extension State/MANIFEST-000001
-2018/10/15-11:53:54.716 14593 Recovering log #4
-2018/10/15-11:53:54.724 14593 Reusing old log /home/lordie/.config/chromium/Default/Extension State/000004.log 
+2018/10/15-15:10:43.189 15816 Reusing MANIFEST /home/lordie/.config/chromium/Default/Extension State/MANIFEST-000001
+2018/10/15-15:10:43.191 15816 Recovering log #9
+2018/10/15-15:10:43.256 15816 Reusing old log /home/lordie/.config/chromium/Default/Extension State/000009.log 
+2018/10/15-15:12:03.873 19862 Level-0 table #13: started
+2018/10/15-15:12:04.067 19862 Level-0 table #13: 2911351 bytes OK
+2018/10/15-15:12:04.104 19862 Delete type=0 #9

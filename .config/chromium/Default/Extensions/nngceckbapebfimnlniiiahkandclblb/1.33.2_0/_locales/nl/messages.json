@@ -1,0 +1,1092 @@
+{
+   "about": {
+      "message": "Over"
+   },
+   "account": {
+      "message": "Account"
+   },
+   "addFolder": {
+      "message": "Nieuwe Map"
+   },
+   "addItem": {
+      "message": "Item toevoegen"
+   },
+   "addLogin": {
+      "message": "Voeg een website toe"
+   },
+   "addLoginNotificationDesc": {
+      "message": "De \"Notificatie bij Nieuwe Site\" vraagt automatisch om nieuwe sites op te slaan in je kluis wanneer je voor de eerste keer inlogt."
+   },
+   "addedFolder": {
+      "message": "Map toegevoegd"
+   },
+   "addedItem": {
+      "message": "Item is toegevoegd"
+   },
+   "address": {
+      "message": "Adres"
+   },
+   "address1": {
+      "message": "Adres 1"
+   },
+   "address2": {
+      "message": "Adres 2"
+   },
+   "address3": {
+      "message": "Adres 3"
+   },
+   "allItems": {
+      "message": "Alle Items"
+   },
+   "apiUrl": {
+      "message": "API server-URL"
+   },
+   "appName": {
+      "message": "Bitwarden"
+   },
+   "april": {
+      "message": "april"
+   },
+   "attachmentSaved": {
+      "message": "De bijlage is opgeslagen."
+   },
+   "attachments": {
+      "message": "Bijlagen"
+   },
+   "august": {
+      "message": "augustus"
+   },
+   "authenticatorAppDesc": {
+      "description": "'Authy' and 'Google Authenticator' are product names and should not be translated.",
+      "message": "Gebruik een authenticatie-app (zoals Authy of Google Authenticator) om op tijd gebaseerde authenticatiecodes te genereren."
+   },
+   "authenticatorAppTitle": {
+      "message": "Authenticatie-app"
+   },
+   "authenticatorKeyTotp": {
+      "message": "Authenticatiesleutel (TOTP)"
+   },
+   "autoFill": {
+      "message": "Auto-invullen"
+   },
+   "autoFillInfo": {
+      "message": "Er zijn geen beschikbare websites om het huidge browser-tabblad automatisch in te vullen."
+   },
+   "autofillError": {
+      "message": "Automatisch invullen mislukt; kopieer en plak uw inloggegevens handmatig."
+   },
+   "avoidAmbChar": {
+      "message": "Vermijd Ambigue Karakters"
+   },
+   "back": {
+      "message": "Terug"
+   },
+   "baseDomain": {
+      "message": "Basisdomein"
+   },
+   "baseUrl": {
+      "message": "Server-URL"
+   },
+   "bitWebVault": {
+      "message": "Bitwarden-webkluis"
+   },
+   "brand": {
+      "message": "Merk"
+   },
+   "browserNotSupportClipboard": {
+      "message": "Je browser ondersteunt geen kopiëren naar plakbord. Kopieer handmatig."
+   },
+   "cancel": {
+      "message": "Annuleer"
+   },
+   "cardholderName": {
+      "message": "Naam van kaarthouder"
+   },
+   "cards": {
+      "message": "Kaarten"
+   },
+   "cfTypeBoolean": {
+      "message": "Boolean"
+   },
+   "cfTypeHidden": {
+      "message": "Verborgen"
+   },
+   "cfTypeText": {
+      "message": "Tekst"
+   },
+   "changeEmail": {
+      "message": "Wijzig E-mail"
+   },
+   "changeMasterPass": {
+      "message": "Verander hoofdwachtwoord"
+   },
+   "changeMasterPassword": {
+      "message": "Wijzig Hoofdwachtwoord"
+   },
+   "changeMasterPasswordConfirmation": {
+      "message": "Je kunt je hoofdwachtwoord veranderen in de webkluis op bitwarden.com. Wil je de website nu bezoeken?"
+   },
+   "checkPassword": {
+      "message": "Controleer of wachtwoord is gelekt."
+   },
+   "cityTown": {
+      "message": "Stad / Dorp"
+   },
+   "clear": {
+      "message": "Wissen"
+   },
+   "close": {
+      "message": "Sluit"
+   },
+   "collections": {
+      "message": "Verzamelingen"
+   },
+   "commandAutofillDesc": {
+      "message": "Vul automatisch de laatst gebruikte inloggegevens voor de huidige website in."
+   },
+   "commandGeneratePasswordDesc": {
+      "message": "Genereer en kopieer een nieuw willekeurig wachtwoord naar het klembord."
+   },
+   "company": {
+      "message": "Bedrijf"
+   },
+   "continue": {
+      "message": "Ga verder"
+   },
+   "copyNote": {
+      "message": "Kopieer Notitie"
+   },
+   "copyNumber": {
+      "message": "Nummer kopiëren"
+   },
+   "copyPassword": {
+      "message": "Kopieer Wachtwoord"
+   },
+   "copySecurityCode": {
+      "message": "Beveiligingscode kopiëren"
+   },
+   "copyUri": {
+      "message": "URI kopiëren"
+   },
+   "copyUsername": {
+      "message": "Kopieer Gebruikersnaam"
+   },
+   "copyValue": {
+      "message": "Waarde kopiëren"
+   },
+   "copyVerificationCode": {
+      "message": "Verificatiecode kopiëren"
+   },
+   "country": {
+      "message": "Land"
+   },
+   "createAccount": {
+      "message": "Maak Account"
+   },
+   "currentTab": {
+      "message": "Huidige Tab"
+   },
+   "customEnvironment": {
+      "message": "Aangepaste omgeving"
+   },
+   "customEnvironmentFooter": {
+      "message": "Voor gevorderde gebruikers. U kunt de basis-URL van iedere dienst afzonderlijk instellen."
+   },
+   "customFields": {
+      "message": "Aangepaste velden"
+   },
+   "dark": {
+      "description": "Dark color",
+      "message": "Donker"
+   },
+   "datePasswordUpdated": {
+      "description": "ex. Date this password was updated",
+      "message": "Wachtwoord bijgewerkt"
+   },
+   "dateUpdated": {
+      "description": "ex. Date this item was updated",
+      "message": "Bijgewerkt"
+   },
+   "december": {
+      "message": "december"
+   },
+   "default": {
+      "message": "Standaard"
+   },
+   "defaultMatchDetection": {
+      "description": "Default URI match detection for auto-fill.",
+      "message": "Standaard match detectie"
+   },
+   "deleteAttachment": {
+      "message": "Bijlage verwijderen"
+   },
+   "deleteAttachmentConfirmation": {
+      "message": "Weet u zeker dat u deze bijlage wilt verwijderen?"
+   },
+   "deleteFolder": {
+      "message": "Verwijder Map"
+   },
+   "deleteFolderConfirmation": {
+      "message": "Weet je zeker dat je deze map wilt verwijderen?"
+   },
+   "deleteItem": {
+      "message": "Item verwijderen"
+   },
+   "deleteItemConfirmation": {
+      "message": "Weet u zeker dat u dit item wilt verwijderen?"
+   },
+   "deletedAttachment": {
+      "message": "Bijlage is verwijderd"
+   },
+   "deletedFolder": {
+      "message": "Verwijderde map"
+   },
+   "deletedItem": {
+      "message": "Item is verwijderd"
+   },
+   "disableAddLoginNotification": {
+      "message": "Zet Notificatie bij Nieuwe Site Uit"
+   },
+   "disableAutoTotpCopy": {
+      "message": "Automatisch kopiëren van TOTP uitschakelen"
+   },
+   "disableAutoTotpCopyDesc": {
+      "message": "Als uw inlogitem beschikt over een sleutel van de verificator, dan wordt de TOTP-verificatiecode automatisch gekopieerd naar uw klembord wanneer de login automatisch wordt ingevuld."
+   },
+   "disableChangedPasswordNotification": {
+      "message": "Melding van gewijzigd wachtwoord uitschakelen"
+   },
+   "disableChangedPasswordNotificationDesc": {
+      "message": "De \"Melding van gewijzigd wachtwoord\" stelt automatisch voor om een wachtwoord in de kluis bij te werken wanneer het op een website is gewijzigd."
+   },
+   "disableContextMenuItem": {
+      "message": "Context Menu-opties uitschakelen"
+   },
+   "disableContextMenuItemDesc": {
+      "message": "Context menu-opties bieden snelle toegang tot wachtwoordgeneratie en logins voor de website in de huidige tab."
+   },
+   "disableFavicon": {
+      "message": "Websitepictogrammen uitschakelen"
+   },
+   "disableFaviconDesc": {
+      "message": "Websitepictogrammen bieden een herkenbare afbeelding naast elk item in uw kluis."
+   },
+   "disableGa": {
+      "message": "Zet Analytics Uit"
+   },
+   "dr": {
+      "message": "Dr."
+   },
+   "duoDesc": {
+      "description": "'Duo Security' and 'Duo Mobile' are product names and should not be translated.",
+      "message": "Verifieer met Duo Security middels de Duo Mobile-app, sms, spraakoproep of een U2F-beveiligingssleutel."
+   },
+   "duoOrganizationDesc": {
+      "description": "'Duo Security' and 'Duo Mobile' are product names and should not be translated.",
+      "message": "Verifieer met Duo Security middels de Duo Mobile-app, sms, spraakoproep of een U2F-beveiligingssleutel."
+   },
+   "edit": {
+      "message": "Bewerk"
+   },
+   "editFolder": {
+      "message": "Bewerk Map"
+   },
+   "editItem": {
+      "message": "Item bewerken"
+   },
+   "editedFolder": {
+      "message": "Bewerkte Map"
+   },
+   "editedItem": {
+      "message": "Item is bewerkt"
+   },
+   "email": {
+      "message": "E-mailadres"
+   },
+   "emailAddress": {
+      "message": "E-mailadres"
+   },
+   "emailDesc": {
+      "message": "Verificatiecodes zullen naar u worden gemaild."
+   },
+   "emailRequired": {
+      "message": "E-mailadres is vereist."
+   },
+   "emailTitle": {
+      "message": "E-mail"
+   },
+   "enableAutoFillOnPageLoad": {
+      "message": "Automatisch invullen bij laden van pagina"
+   },
+   "enableAutoFillOnPageLoadDesc": {
+      "message": "Als een inlogformulier wordt gedetecteerd, dan worden de inloggegevens automatisch ingevuld."
+   },
+   "enterEmailToGetHint": {
+      "message": "Voer het e-mailadres van je account in om de hint voor je hoofdwachtwoord te ontvangen."
+   },
+   "enterVerificationCodeApp": {
+      "message": "Voer de 6-cijferige verificatiecode in die in uw authenticatie-app staat."
+   },
+   "enterVerificationCodeEmail": {
+      "message": "Voer de 6-cijferige verificatiecode in die gemaild is naar",
+      "placeholders": {
+         "email": {
+            "content": "$1",
+            "example": "example@gmail.com"
+         }
+      }
+   },
+   "environmentSaved": {
+      "message": "De omgeving-URL's zijn opgeslagen."
+   },
+   "errorOccurred": {
+      "message": "Er is een fout opgetreden"
+   },
+   "ex": {
+      "message": "bijv."
+   },
+   "exact": {
+      "message": "Exact"
+   },
+   "experimentalFeature": {
+      "message": "Dit is momenteel een experimentele functie; gebruik hiervan is op eigen risico."
+   },
+   "expiration": {
+      "message": "Vervaldatum"
+   },
+   "expirationMonth": {
+      "message": "Vervalmaand"
+   },
+   "expirationYear": {
+      "message": "Vervaljaar"
+   },
+   "exportMasterPassword": {
+      "message": "Voer uw hoofdwachtwoord om de gegevens in de kluis te exporteren."
+   },
+   "exportVault": {
+      "message": "Exporteer Kluis"
+   },
+   "exportWarning": {
+      "message": "Deze export bevat niet-versleutelde gegevens in CSV-indeling. Deze dient niet te worden opgeslagen of over onveilige kanalen (zoals email) verstuurd te worden. Verwijder het zodra het niet meer nodig is."
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Bitwarden is een veilige, gratis wachtwoordbeheerder voor al uw apparaten."
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Bitwarden - Gratis wachtwoordbeheerder"
+   },
+   "favorite": {
+      "message": "Favoriet"
+   },
+   "favorites": {
+      "message": "Favorieten"
+   },
+   "featureUnavailable": {
+      "message": "Functie niet beschikbaar"
+   },
+   "february": {
+      "message": "februari"
+   },
+   "fifteenMinutes": {
+      "message": "15 minuten"
+   },
+   "file": {
+      "message": "Bestand"
+   },
+   "firstName": {
+      "message": "Voornaam"
+   },
+   "fiveMinutes": {
+      "message": "5 minuten"
+   },
+   "folder": {
+      "message": "Map"
+   },
+   "folders": {
+      "message": "Mappen"
+   },
+   "fourHours": {
+      "message": "4 uur"
+   },
+   "gaDesc": {
+      "message": "We gebruiken analytics om te weten te komen hoe de extensie gebruikt wordt, zodat we deze kunnen verbeteren. Alle verzamelde data is anoniem."
+   },
+   "generatePassword": {
+      "message": "Genereer Wachtwoord"
+   },
+   "generatePasswordCopied": {
+      "message": "Genereer Wachtwoord (gekopieerd)"
+   },
+   "generator": {
+      "description": "Short for 'Password Generator'.",
+      "message": "Generator"
+   },
+   "getMasterPasswordHint": {
+      "message": "Verkrijg hoofdwachtwoord-hint"
+   },
+   "gettingStartedTutorial": {
+      "message": "Aan-de-slag-handleiding"
+   },
+   "gettingStartedTutorialVideo": {
+      "message": "Bekijk onze aan-de-slag-handleiding om te leren hoe je het meeste haalt uit je browserextensie."
+   },
+   "helpFeedback": {
+      "message": "Hulp & Feedback"
+   },
+   "host": {
+      "description": "A URL's host value. For example, the host of https://sub.domain.com:443 is 'sub.domain.com:443'.",
+      "message": "Hostnaam"
+   },
+   "iconsUrl": {
+      "message": "Pictogrammen server-URL"
+   },
+   "identities": {
+      "message": "Identiteiten"
+   },
+   "identityName": {
+      "message": "Identiteitsnaam"
+   },
+   "identityUrl": {
+      "message": "Gebruikersbeheer server-URL"
+   },
+   "immediately": {
+      "message": "Onmiddelijk"
+   },
+   "importItems": {
+      "message": "Items importeren"
+   },
+   "insertU2f": {
+      "message": "Steek uw beveilingssleutel in de USB-poort van uw computer en druk, indien aanwezig, op de knop."
+   },
+   "insertYubiKey": {
+      "message": "Steek uw YubiKey in de USB-poort van uw computer en druk op de knop."
+   },
+   "invalidEmail": {
+      "message": "Ongeldig e-mailadres."
+   },
+   "invalidMasterPassword": {
+      "message": "Ongeldig hoofdwachtwoord"
+   },
+   "itemInformation": {
+      "message": "Item-informatie"
+   },
+   "january": {
+      "message": "januari"
+   },
+   "july": {
+      "message": "juli"
+   },
+   "june": {
+      "message": "juni"
+   },
+   "lastName": {
+      "message": "Achternaam"
+   },
+   "lastSync": {
+      "message": "Laatste Sync:"
+   },
+   "launch": {
+      "message": "Starten"
+   },
+   "learnMore": {
+      "message": "Meer informatie"
+   },
+   "length": {
+      "message": "Lengte"
+   },
+   "licenseNumber": {
+      "message": "Rijbewijsnummer"
+   },
+   "light": {
+      "description": "Light color",
+      "message": "Licht"
+   },
+   "lockNow": {
+      "message": "Nu vergrendelen"
+   },
+   "lockOptions": {
+      "message": "Versleutel"
+   },
+   "logOut": {
+      "message": "Log Uit"
+   },
+   "logOutConfirmation": {
+      "message": "Weet je zeker dat je wilt uitloggen?"
+   },
+   "loggedOut": {
+      "message": "Uitgelogd"
+   },
+   "login": {
+      "message": "Login"
+   },
+   "loginExpired": {
+      "message": "Je sessie is verlopen."
+   },
+   "loginOrCreateNewAccount": {
+      "message": "Log in of maak een account om toegang te krijgen tot je beveiligde kluis."
+   },
+   "loginUnavailable": {
+      "message": "Inloggen niet beschikbaar"
+   },
+   "logins": {
+      "message": "Logins"
+   },
+   "manage": {
+      "message": "Beheer"
+   },
+   "march": {
+      "message": "maart"
+   },
+   "masterPass": {
+      "message": "Hoofdwachtwoord"
+   },
+   "masterPassDesc": {
+      "message": "Het hoofdwachtwoord is het wachtwoord waarme je toegang krijgt tot je beveiligde kluis. Zorg dat je deze onthoudt. Er is geen manier om hem te herstellen als je hem kwijtraakt."
+   },
+   "masterPassDoesntMatch": {
+      "message": "Hoofdwachtwoorden zijn niet gelijk."
+   },
+   "masterPassHint": {
+      "message": "Hint voor hoofdwachtwoord (optioneel)"
+   },
+   "masterPassHintDesc": {
+      "message": "Een geheugensteuntje voor je hoofdwachtwoord, indien je deze vergeet."
+   },
+   "masterPassLength": {
+      "message": "Hoofdwachtwoord moet minstens 8 karakters lang zijn."
+   },
+   "masterPassRequired": {
+      "message": "Hoofdwachtwoord is vereist."
+   },
+   "masterPassSent": {
+      "message": "We hebben je een mail gestuurd met de hint voor je hoofdwachtwoord."
+   },
+   "matchDetection": {
+      "description": "URI match detection for auto-fill.",
+      "message": "Match detectie"
+   },
+   "maxFileSize": {
+      "message": "De maximale bestandsgrootte is 100 MB."
+   },
+   "may": {
+      "message": "mei"
+   },
+   "middleName": {
+      "message": "Tweede naam"
+   },
+   "minNumbers": {
+      "message": "Minimum Aantal Getallen"
+   },
+   "minSpecial": {
+      "message": "Minimum Aantal Speciale Karakters"
+   },
+   "mr": {
+      "message": "Mr."
+   },
+   "mrs": {
+      "message": "Mvr."
+   },
+   "ms": {
+      "message": "Mej."
+   },
+   "myVault": {
+      "message": "Mijn Kluis"
+   },
+   "name": {
+      "message": "Naam"
+   },
+   "nameRequired": {
+      "message": "Naam is vereist."
+   },
+   "never": {
+      "message": "Nooit"
+   },
+   "neverLockWarning": {
+      "message": "Weet u zeker dat u de optie \"Nooit\" wilt gebruiken? Met de vergrendelingsoptie \"Nooit\" wordt de coderingssleutel van uw safe opgeslagen op uw apparaat. Als u deze optie gebruikt, moet u ervoor zorgen dat u uw apparaat naar behoren beschermd houdt."
+   },
+   "newAccountCreated": {
+      "message": "Je nieuwe account is aangemaakt! Je kunt nu inloggen."
+   },
+   "newAttachment": {
+      "message": "Nieuwe bijlage toevoegen"
+   },
+   "newCustomField": {
+      "message": "Nieuw aangepast veld"
+   },
+   "newUri": {
+      "message": "Nieuwe URI"
+   },
+   "no": {
+      "message": "Nee"
+   },
+   "noAttachments": {
+      "message": "Geen bijlagen."
+   },
+   "noFolders": {
+      "message": "Er zijn geen mappen."
+   },
+   "noItemsInList": {
+      "message": "Er zijn geen items om weer te geven."
+   },
+   "noMatchingLogins": {
+      "message": "Geen corresponderende websites.."
+   },
+   "noPasswordsInList": {
+      "message": "Er zijn geen wachtwoorden om weer te geven."
+   },
+   "noTwoStepProviders": {
+      "message": "Er is tweestapsverificatie ingeschakeld voor dit account, maar geen van de ingestelde aanbieders wordt ondersteund door deze webbrowser."
+   },
+   "noTwoStepProviders2": {
+      "message": "Gebruik een ondersteunde webbrowser (zoals Chrome) en/of voeg extra aanbieders toe die beter worden ondersteund in webbrowsers (zoals een authenticator-app)."
+   },
+   "noneFolder": {
+      "description": "This is the folder for uncategorized items",
+      "message": "Geen map"
+   },
+   "note": {
+      "message": "Notitie"
+   },
+   "notes": {
+      "message": "Aantekeningen"
+   },
+   "notificationAddDesc": {
+      "message": "Moet Bitwarden dit wachtwoord onthouden?"
+   },
+   "notificationAddSave": {
+      "message": "Ja, sla nu op"
+   },
+   "notificationChangeDesc": {
+      "message": "Wilt u dit wachtwoord in Bitwarden bijwerken?"
+   },
+   "notificationChangeSave": {
+      "message": "Ja, nu bijwerken"
+   },
+   "notificationNeverSave": {
+      "message": "Nooit voor deze website"
+   },
+   "notificationsUrl": {
+      "message": "Meldingenserver-URL"
+   },
+   "november": {
+      "message": "november"
+   },
+   "numWords": {
+      "message": "Aantal woorden"
+   },
+   "number": {
+      "message": "Nummer"
+   },
+   "october": {
+      "message": "oktober"
+   },
+   "onLocked": {
+      "message": "Bij systeemvergrendeling"
+   },
+   "onRestart": {
+      "message": "Na herstarten"
+   },
+   "oneHour": {
+      "message": "1 uur"
+   },
+   "oneMinute": {
+      "message": "1 minuut"
+   },
+   "options": {
+      "message": "Opties"
+   },
+   "organization": {
+      "description": "An entity of multiple related people (ex. a team or business organization).",
+      "message": "Organisatie"
+   },
+   "other": {
+      "message": "Anders"
+   },
+   "overwritePassword": {
+      "message": "Overschrijf Wachtwoord"
+   },
+   "overwritePasswordConfirmation": {
+      "message": "Weet je zeker dat je het huidige wachtwoord wilt overschrijven?"
+   },
+   "passGen": {
+      "message": "Wachtwoordgenerator"
+   },
+   "passGenInfo": {
+      "message": "Genereer automatisch sterke, unieke wachtwoorden voor je logins."
+   },
+   "passphrase": {
+      "message": "Wachtwoordzin"
+   },
+   "passportNumber": {
+      "message": "Paspoortnummer"
+   },
+   "password": {
+      "message": "Wachtwoord"
+   },
+   "passwordCopied": {
+      "message": "Wachtwoord gekopieerd"
+   },
+   "passwordExposed": {
+      "message": "This password has been exposed in data breaches. You should change it.",
+      "placeholders": {
+         "value": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "passwordHint": {
+      "message": "Wachtwoordhint"
+   },
+   "passwordHistory": {
+      "message": "Wachtwoordgeschiedenis"
+   },
+   "passwordSafe": {
+      "message": "Dit wachtwoord is niet gevonden in bekende datalekken. Het zou veilig te gebruiken moeten zijn."
+   },
+   "phone": {
+      "message": "Telefoonnummer"
+   },
+   "popOutNewWindow": {
+      "message": "Openen in een nieuw venster"
+   },
+   "popup2faCloseMessage": {
+      "message": "Als u buiten het pop-upvenster klikt om uw e-mail te controleren op een verificatiecode, dan zal de pop-up sluiten. Wilt u het pop-upvenster openen in een nieuw scherm, zodat het niet wordt gesloten?"
+   },
+   "ppremiumSignUpFuture": {
+      "message": "Alle toekomstige premium-functies. Binnenkort volgen er meer!"
+   },
+   "ppremiumSignUpStorage": {
+      "message": "1 GB versleutelde bestandsopslag."
+   },
+   "ppremiumSignUpSupport": {
+      "message": "Klantondersteuning met hoge prioriteit."
+   },
+   "ppremiumSignUpTotp": {
+      "message": "TOTP-verificatiecodegenerator (2FA) voor inlogitems in uw kluis."
+   },
+   "ppremiumSignUpTwoStep": {
+      "message": "Extra tweestapsinlogopties zoals YubiKey, FIDO U2F en Duo."
+   },
+   "premiumCurrentMember": {
+      "message": "U bent een Premium-lid!"
+   },
+   "premiumCurrentMemberThanks": {
+      "message": "Bedankt voor de ondersteuning van Bitwarden."
+   },
+   "premiumManage": {
+      "message": "Lidmaatschap beheren"
+   },
+   "premiumManageAlert": {
+      "message": "U kunt uw lidmaatschap wijzigen in de webkluis op bitwarden.com. Wilt u de website nu bezoeken?"
+   },
+   "premiumMembership": {
+      "message": "Premium-lidmaatschap"
+   },
+   "premiumNotCurrentMember": {
+      "message": "U bent momenteel geen Premium-lid."
+   },
+   "premiumPrice": {
+      "message": "Dit alles voor slechts $PRICE$ per jaar!",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "$10"
+         }
+      }
+   },
+   "premiumPurchase": {
+      "message": "Premium kopen"
+   },
+   "premiumPurchaseAlert": {
+      "message": "U kunt een premium-lidmaatschap kopen via de bitwarden.com-webkluis. Wilt u de website nu bezoeken?"
+   },
+   "premiumRefresh": {
+      "message": "Lidmaatschap vernieuwen"
+   },
+   "premiumRequired": {
+      "message": "Premium vereist"
+   },
+   "premiumRequiredDesc": {
+      "message": "U heeft een Premium-lidmaatschap nodig om deze functie te kunnen gebruiken."
+   },
+   "premiumSignUpAndGet": {
+      "message": "Meld u aan voor een Premium-lidmaatschap en verkrijg:"
+   },
+   "privateModeMessage": {
+      "message": "Dit scherm is helaas niet beschikbaar in de incognitomodus voor deze browser."
+   },
+   "rateExtension": {
+      "message": "Beoordeel de Extensie"
+   },
+   "rateExtensionDesc": {
+      "message": "Je kunt ons helpen door een goede recensie achter te laten!"
+   },
+   "reTypeMasterPass": {
+      "message": "Herhaal je hoofdwachtwoord"
+   },
+   "recoveryCodeDesc": {
+      "message": "Heeft u geen toegang meer tot all uw tweestapsaanbieders? Gebruik dan uw herstelcode om alle aanbieders uit te schakelen op uw account."
+   },
+   "recoveryCodeTitle": {
+      "message": "Herstelcode"
+   },
+   "refresh": {
+      "message": "Verversen"
+   },
+   "refreshComplete": {
+      "message": "Vernieuwen voltooid"
+   },
+   "regEx": {
+      "description": "A programming term, also known as 'RegEx'.",
+      "message": "Reguliere expressie"
+   },
+   "regeneratePassword": {
+      "message": "Hergenereer Wachtwoord"
+   },
+   "rememberMe": {
+      "message": "Mijn gegevens onthouden"
+   },
+   "remove": {
+      "message": "Verwijderen"
+   },
+   "save": {
+      "message": "Opslaan"
+   },
+   "searchCollection": {
+      "message": "Verzameling doorzoeken"
+   },
+   "searchFolder": {
+      "message": "Zoek in map"
+   },
+   "searchType": {
+      "message": "Zoekcategorie"
+   },
+   "searchVault": {
+      "message": "Doorzoek kluis"
+   },
+   "secureNotes": {
+      "message": "Beveiligde notities"
+   },
+   "security": {
+      "message": "Beveiliging"
+   },
+   "securityCode": {
+      "message": "Beveiligingscode"
+   },
+   "select": {
+      "message": "Selecteer"
+   },
+   "selectFile": {
+      "message": "Selecteer een bestand."
+   },
+   "selfHostedEnvironment": {
+      "message": "Zelfgehoste omgeving"
+   },
+   "selfHostedEnvironmentFooter": {
+      "message": "Specificeer de basis-URL van uw op locatie gehoste Bitwarden-installatie."
+   },
+   "sendVerificationCodeEmailAgain": {
+      "message": "Verificatiecode-e-mail opnieuw versturen"
+   },
+   "september": {
+      "message": "september"
+   },
+   "settings": {
+      "message": "Instellingen"
+   },
+   "shareVault": {
+      "message": "Deel uw kluis"
+   },
+   "shareVaultConfirmation": {
+      "message": "Met een organisatie-account kunt u een Bitwarden-kluis met anderen delen. Wilt u op de website bitwarden.com meer informatie lezen?"
+   },
+   "shared": {
+      "message": "Gedeeld"
+   },
+   "ssn": {
+      "message": "Burgerservicenummer"
+   },
+   "startsWith": {
+      "message": "Begint met"
+   },
+   "stateProvince": {
+      "message": "Staat / Provincie"
+   },
+   "submit": {
+      "message": "Voer In"
+   },
+   "sync": {
+      "message": "Sync"
+   },
+   "syncVaultNow": {
+      "message": "Sync Kluis Nu"
+   },
+   "syncingComplete": {
+      "message": "Synchronisatie voltooid"
+   },
+   "syncingFailed": {
+      "message": "De synchronisatie is mislukt"
+   },
+   "tab": {
+      "message": "Tab"
+   },
+   "theme": {
+      "message": "Thema"
+   },
+   "themeDesc": {
+      "message": "Het kleurenthema van de toepassing wijzigen."
+   },
+   "thirtyMinutes": {
+      "message": "30 minuten"
+   },
+   "title": {
+      "message": "Titel"
+   },
+   "toggleOptions": {
+      "message": "Schakel Context"
+   },
+   "toggleVisibility": {
+      "message": "Zichtbaarheid"
+   },
+   "tools": {
+      "message": "Gereedschap"
+   },
+   "twoStepLogin": {
+      "message": "Tweestaps-login"
+   },
+   "twoStepLoginConfirmation": {
+      "message": "Tweestapsverificatie maakt uw account veiliger door u bij iedere inlogpoging een code te vragen van een authenticatie-app. Tweestapsverificatie kunt u inschakelen in de webkluis op bitwarden.com. Wilt u de website nu bezoeken?"
+   },
+   "twoStepNewWindowMessage": {
+      "message": "Voltooi uw tweestapsloginaanvraag middels het nieuwe tabblad."
+   },
+   "twoStepOptions": {
+      "message": "Tweestapsinlogopties"
+   },
+   "type": {
+      "message": "Type"
+   },
+   "typeCard": {
+      "message": "Kaart"
+   },
+   "typeIdentity": {
+      "message": "Identiteit"
+   },
+   "typeLogin": {
+      "message": "Login"
+   },
+   "typeLogins": {
+      "message": "Logins"
+   },
+   "typeSecureNote": {
+      "message": "Veilige notitie"
+   },
+   "types": {
+      "message": "Types"
+   },
+   "u2fDesc": {
+      "message": "Gebruik een FIDO U2F-beveiligingssleutel om toegang te krijgen tot uw account."
+   },
+   "u2fTitle": {
+      "message": "FIDO U2F-beveiligingssleutel"
+   },
+   "unexpectedError": {
+      "message": "Er is een onverwachte fout opgetreden."
+   },
+   "updateKey": {
+      "message": "U kunt deze functie niet gebruiken zolang u uw encryptiesleutel niet hebt bijgewerkt."
+   },
+   "uri": {
+      "message": "URI"
+   },
+   "uriPosition": {
+      "description": "A listing of URIs. Ex: URI 1, URI 2, URI 3, etc.",
+      "message": "URI $POSITION$",
+      "placeholders": {
+         "position": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "useAnotherTwoStepMethod": {
+      "message": "Andere tweestapsinlogmethode gebruiken"
+   },
+   "username": {
+      "message": "Gebruikersnaam"
+   },
+   "value": {
+      "message": "Waarde"
+   },
+   "valueCopied": {
+      "description": "Value has been copied to the clipboard.",
+      "message": "$VALUE$ gekopieerd",
+      "placeholders": {
+         "value": {
+            "content": "$1",
+            "example": "Password"
+         }
+      }
+   },
+   "vaultLocked": {
+      "message": "Kluis zit op slot."
+   },
+   "verificationCode": {
+      "message": "Verificatiecode"
+   },
+   "verificationCodeEmailSent": {
+      "message": "Verificatie-e-mail is verzonden naar $EMAIL$.",
+      "placeholders": {
+         "email": {
+            "content": "$1",
+            "example": "example@gmail.com"
+         }
+      }
+   },
+   "verificationCodeRequired": {
+      "message": "Verificatiecode is vereist."
+   },
+   "verificationCodeTotp": {
+      "message": "Verificatiecode (TOTP)"
+   },
+   "verifyMasterPassword": {
+      "message": "Verifieer Hoofdwachtwoord"
+   },
+   "version": {
+      "message": "Versie"
+   },
+   "view": {
+      "message": "Weergeven"
+   },
+   "viewItem": {
+      "message": "Item weergeven"
+   },
+   "warning": {
+      "description": "WARNING (should stay in capitalized letters if the language permits)",
+      "message": "WAARSCHUWING"
+   },
+   "webVaultUrl": {
+      "message": "Webkluis server-URL"
+   },
+   "website": {
+      "message": "Website"
+   },
+   "wordSeparator": {
+      "message": "Woordscheidingsteken"
+   },
+   "yes": {
+      "message": "Ja"
+   },
+   "yubiKeyDesc": {
+      "message": "Gebruik een YubiKey om toegang te krijgen tot uw account. Werkt met YubiKey 4, 4 Nano, 4C en Neo-apparaten."
+   },
+   "yubiKeyTitle": {
+      "message": "YubiKey OTP-beveiligingssleutel"
+   },
+   "zipPostalCode": {
+      "message": "Postcode"
+   }
+}
