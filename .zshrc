@@ -194,4 +194,4 @@ case $(basename "$(cat "/proc/$PPID/comm")") in
   		ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=8'
     ;;
 esac
-alias config='/usr/bin/git --git-dir=/home/lordie/.files/ --work-tree=/home/lordie'
+alias .files='/usr/bin/git --git-dir=/home/lordie/.files/ --work-tree=/home/lordie'
