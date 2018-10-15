@@ -1,0 +1,36 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "assets/fl-icon-128.png",
+         "16": "assets/fl-icon-16.png",
+         "32": "assets/fl-icon-32.png"
+      },
+      "default_title": "FramelessApp Current Window"
+   },
+   "commands": {
+      "toggle_popup": {
+         "description": "Launch tab as FramelessApp",
+         "global": false,
+         "suggested_key": {
+            "default": "Alt+0"
+         }
+      }
+   },
+   "description": "Launch your curent tab as a FramelessApp",
+   "homepage_url": "https://www.framelessapps.com/extension.html#extension",
+   "icons": {
+      "128": "assets/fl-icon-128.png",
+      "16": "assets/fl-icon-16.png",
+      "32": "assets/fl-icon-32.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0Wbrs6Lu2UgE/0AdafJ97YHS5kaxpLNPxfKwj/VP1IEepU5bsn00AeQz+ZHX3AIouuIk2l6QnFJ/sfNwwUnw07JgdJHybYZDX1xixpBlpheDx0yO6cfbamFRufNMdLeghzkKiNNWRev7wj9mOncrDZ/nV2r6z8ESdbpHF1X2dBfnYksmgX4K0crqooIqK+FA4O7797vUmL9XTLXjSzviK3WJyBAWMXQ+xw4OJWMtXTWIafOl2s9KNbeizoZ15OCzvzjaT7wTx+3vAnEdhiFQCNOmYbIeUcZuObZO1llpiXdDDr5YYSYrYNi679UTsxYoPO8OH9txE33ZO49v5QfKVwIDAQAB",
+   "manifest_version": 2,
+   "name": "FramelessApp Ext",
+   "permissions": [ "storage", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.0"
+}

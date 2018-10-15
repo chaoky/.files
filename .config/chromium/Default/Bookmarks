@@ -1,0 +1,139 @@
+{
+   "checksum": "61a73a859925173d97bfc980da06d7e8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13176242030425468",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13176601331463218"
+            },
+            "name": "Lists for anime, manga, torrens and more : animepiracy",
+            "sync_transaction_version": "9",
+            "type": "url",
+            "url": "https://www.reddit.com/r/animepiracy/comments/8ajw61/lists_for_anime_manga_torrens_and_more/"
+         }, {
+            "date_added": "13176253402599530",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13183076621765968"
+            },
+            "name": "BakaBT - High quality anime bittorrent tracker",
+            "sync_transaction_version": "10",
+            "type": "url",
+            "url": "https://bakabt.me/"
+         }, {
+            "date_added": "13178156756744631",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13178177542054027"
+            },
+            "name": "Seamless Responsive Photo Grid | CSS-Tricks",
+            "sync_transaction_version": "11",
+            "type": "url",
+            "url": "https://css-tricks.com/seamless-responsive-photo-grid/"
+         }, {
+            "date_added": "13183091314423454",
+            "id": "13",
+            "meta_info": {
+               "last_visited_desktop": "13183091314425289"
+            },
+            "name": "Terminal",
+            "sync_transaction_version": "12",
+            "type": "url",
+            "url": "https://terminal.c1games.com/playground"
+         }, {
+            "date_added": "13183165469244555",
+            "id": "14",
+            "meta_info": {
+               "last_visited_desktop": "13183165469244966"
+            },
+            "name": "suckless.org software that sucks less",
+            "sync_transaction_version": "13",
+            "type": "url",
+            "url": "https://suckless.org/"
+         }, {
+            "date_added": "13183535076927910",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13183535200473274"
+            },
+            "name": "Luke Smith",
+            "sync_transaction_version": "14",
+            "type": "url",
+            "url": "https://www.bitchute.com/channel/lukesmith/"
+         }, {
+            "date_added": "13183804495945291",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13184088854036080"
+            },
+            "name": "The best way to store your dotfiles: A bare Git repository - Atlassian Developers",
+            "sync_transaction_version": "16",
+            "type": "url",
+            "url": "https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/"
+         } ],
+         "date_added": "13184048878332250",
+         "date_modified": "13183804495945291",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13184048878332262",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "16",
+      "synced": {
+         "children": [ {
+            "date_added": "13107898809129638",
+            "id": "5",
+            "name": "www.tomandopartido.com.br",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.tomandopartido.com.br/"
+         }, {
+            "date_added": "13108665285412570",
+            "id": "6",
+            "name": "Do Androids Dream of Electric Sheep? - Wikipedia, the free encyclopedia",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://en.m.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F"
+         }, {
+            "date_added": "13090712731022101",
+            "id": "7",
+            "name": " Kickass Torrents",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://kat.cr/"
+         }, {
+            "date_added": "13122118552761426",
+            "id": "8",
+            "name": "Userscloud › Free Unlimited Cloud Storage",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://userscloud.com/a3hhi57si0xt"
+         }, {
+            "date_added": "13138426131863006",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13181496448645888"
+            },
+            "name": "KaBuM! - Monitor LG LED 23´ IPS D-Sub, HDMI,Full HD 23MP55HQ-P Preto",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=54259"
+         } ],
+         "date_added": "13184048878332265",
+         "date_modified": "13138426131863006",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

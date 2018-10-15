@@ -1,0 +1,15 @@
+2018/10/15-11:28:26.438 7405 Reusing MANIFEST /home/lordie/.config/chromium/Default/Session Storage/MANIFEST-000001
+2018/10/15-11:28:26.439 7405 Recovering log #13
+2018/10/15-11:28:26.439 7405 Reusing old log /home/lordie/.config/chromium/Default/Session Storage/000013.log 
+2018/10/15-11:37:29.123 19570 Level-0 table #17: started
+2018/10/15-11:37:29.167 19570 Level-0 table #17: 25800 bytes OK
+2018/10/15-11:37:29.212 19570 Delete type=0 #13
+2018/10/15-11:37:29.212 19570 Compacting 4@0 + 1@1 files
+2018/10/15-11:37:29.267 19570 Generated table #18@0: 110 keys, 35525 bytes
+2018/10/15-11:37:29.267 19570 Compacted 4@0 + 1@1 files => 35525 bytes
+2018/10/15-11:37:29.311 19570 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/10/15-11:37:29.312 19570 Delete type=2 #14
+2018/10/15-11:37:29.313 19570 Delete type=2 #17
+2018/10/15-11:37:29.313 19570 Delete type=2 #12
+2018/10/15-11:37:29.314 19570 Delete type=2 #7
+2018/10/15-11:37:29.314 19570 Delete type=2 #9
